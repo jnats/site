@@ -1,25 +1,8 @@
-.text {
-    font-family:comic-sans-ms;
-    color: #ffffff;
-    font-size: 16;
-}
 body {
     background-color: #141624;
-}
-a {
-    font-family:sans-serif;
+    font-family: sans-serif;
     color: #ffffff;
-}
-p {
-    font-family:sans-serif;
-    color: #ffffff;
-}
-h1 {
-    font-family:sans-serif;
-    color: #ffffff;
-}
-li {
-    font-family:sans-serif;
-    color: #ffffff;
+    font-size: 20;
+    text-align: center;
 }
 /* HELP ME I DO NOT KNOW HOW TO USE CSS */

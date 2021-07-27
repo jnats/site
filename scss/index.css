@@ -56,3 +56,10 @@ a:hover {
   color: rgba(238, 238, 238, 0.726);
 }
 /*# sourceMappingURL=index.css.map */
+
+#bottom-right
+{
+right: 0;
+bottom: 0;
+position: absolute;
+}
